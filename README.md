@@ -11,3 +11,6 @@
 * Som: mmsys.cpl
 * Central de Sincronização: mobsync
 * Dispositivos e Impressoras: control printers
+* Ferramentas adminsitrativas: control admintools
+* Firewall do Windows: firewall.cpl
+* Fontes: fonts
