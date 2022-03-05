@@ -9,3 +9,5 @@
 * Data e Hora: timedate.cpl
 * Programas e Recursos: appwiz.cpl
 * Som: mmsys.cpl
+* Central de Sincronização: mobsync
+* Dispositivos e Impressoras: control printers
