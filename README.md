@@ -14,3 +14,10 @@
 * Ferramentas adminsitrativas: control admintools
 * Firewall do Windows: firewall.cpl
 * Fontes: fonts
+* Idioma: lpksetup ou intl.cpl
+* Opções da Internet: inetcpl.cpl
+* Opções de Energia: powercfg.cpl
+* Opções do Explorador de Arquivos: control folders
+* Programas e Recursos: appwiz.cpl
+* Programas Padrão: computerdefaults
+* Região: intl.cpl
