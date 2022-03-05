@@ -21,3 +21,8 @@
 * Programas e Recursos: appwiz.cpl
 * Programas Padrão: computerdefaults
 * Região: intl.cpl
+* Segurança e Manutenção: wscui.cpl
+* Sistema: msinfo32
+* Solução de Problemas: control.exe /name Microsoft.Troubleshooting
+* Teclado: control keyboard
+* Telefone e Modem: telephon.cpl
