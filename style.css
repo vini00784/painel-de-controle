@@ -46,6 +46,10 @@ main {
     border-radius: 15px;
 }
 
+.img-container {
+    width: 50px;
+}
+
 footer {
     height: 50px;
     display: flex;
